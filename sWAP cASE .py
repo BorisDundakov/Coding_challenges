@@ -21,4 +21,4 @@ def swap_case(s):
     return res
 
 
-swap_case('SoftUni BAYbe')
+swap_case('sEriOUS ExamPLe')
