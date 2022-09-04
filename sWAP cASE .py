@@ -16,9 +16,9 @@ hACKERrANK.COM PRESENTS "pYTHONIST 2"."""
 # DAY 1 -> 04.09.22
 
 def swap_case(s):
-    test = [each_letter.upper() if each_letter.islower() else each_letter.lower() for each_letter in s]
-    res = ''.join(test)
-    return res
+    list_swapped = [each_letter.upper() if each_letter.islower() else each_letter.lower() for each_letter in s]
+    string_swapped = ''.join(list_swapped)
+    return string_swapped
 
 
 swap_case('sEriOUS ExamPLe')
