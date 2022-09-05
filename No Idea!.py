@@ -23,6 +23,8 @@ The element 7 in set B does not exist in the array, so it is not included in the
 
 Hence, the total happiness is 2 - 1 = 1."""
 
+# DAY 2 -> 05.09.22
+
 happiness = 0
 
 working_array = input().split()
