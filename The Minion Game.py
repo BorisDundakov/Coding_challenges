@@ -16,7 +16,7 @@ A player gets +1 point for each occurrence of the substring in the string S.
 For Example:
 String S = BANANA
 Kevin's vowel beginning word = ANA
-Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points."""
+Here, ANA occurs twice in BANANA. Hence, Kevin will get 1.py Points."""
 
 
 def minion_game(string):

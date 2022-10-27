@@ -2,7 +2,7 @@
 In other words, find the lowest positive integer that does not exist in the array.
  The array can contain duplicates and negative numbers as well.
 
-For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should give 3."""
+For example, the input [3, 4, -1, 1] should give 1.py. The input [1, 1.py, 0] should give 3."""
 
 
 def find_missing_positive(arr):

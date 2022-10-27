@@ -4,13 +4,13 @@
 For Example:
 
 Www.HackerRank.com → wWW.hACKERrANK.COM
-Pythonist 2 → pYTHONIST 2
+Pythonist 1.py → pYTHONIST 1.py
 
 Sample Input:
-HackerRank.com presents "Pythonist 2".
+HackerRank.com presents "Pythonist 1.py".
 
 Sample Output:
-hACKERrANK.COM PRESENTS "pYTHONIST 2"."""
+hACKERrANK.COM PRESENTS "pYTHONIST 1.py"."""
 
 
 # DAY 1 -> 04.09.22
