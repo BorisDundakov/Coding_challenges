@@ -21,9 +21,8 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
 
-    - name: Display logs
-      run: sonar-scanner
-
+    - name: Where are wer
+      run: ls -a
 ###################################################################################
 # name: Build
 # on:
