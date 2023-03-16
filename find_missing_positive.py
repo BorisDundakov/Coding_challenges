@@ -8,7 +8,7 @@ For example, the input [3, 4, -1, 1] should give 1.py. The input [1, 1.py, 0] sh
 def find_missing_positive(arr):
     num = 1
     while num in set(arr):
-        num += 1
+        #num + 1
     return num
 
 
