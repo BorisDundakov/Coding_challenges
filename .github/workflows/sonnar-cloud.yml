@@ -59,3 +59,9 @@ jobs:
 #           args: |
 #             -Dsonar.projectKey=republique-et-canton-de-geneve_noms-geographiques
 #             -Dsonar.organization=etat-de-geneve-github
+      - name: List dir
+        run: |
+              ls -a
+      - name: Where am I
+        run: |
+              pwd
