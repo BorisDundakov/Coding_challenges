@@ -1,4 +1,4 @@
-# A pipe that executes repository information to sonarcloud
+# A pipe that executes repository information to SonarCloud [https://sonarcloud.io]
 
 name: pylint
 
