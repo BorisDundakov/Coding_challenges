@@ -59,10 +59,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-#         with:
-#           args: |
-#             -Dsonar.projectKey=republique-et-canton-de-geneve_noms-geographiques
-#             -Dsonar.organization=etat-de-geneve-github
+        with:
+          args: |
+            -Dsonar.projectKey=borisdundakov
+            -Dsonar.organization=BorisDundakov_Coding_challenges
       - name: List dir
         run: |
               ls -a
