@@ -29,8 +29,9 @@
 # .*\+ : Valid regex.
 # .*+: Has the error multiple repeat. Hence, it is invalid.
 
-print('Should return error')
-
+#SyntaxError: '(' was never closed
+print('Should return error'
+      
 import re
 
 
